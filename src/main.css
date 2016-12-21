@@ -1,0 +1,65 @@
+
+*{
+    padding:0;
+    margin:0;
+}
+
+body{
+    font-family:sans-serif;
+}
+
+
+.header{
+    background-color:black;
+    border-top:5px solid pink;
+    color:white;
+    text-align:center;
+}
+
+.header h1{
+    font-size:4em;
+    padding-top:50px;
+    padding-bottom:20px;
+}
+
+.header h2{
+    font-size:2em;
+    padding-bottom:40px;
+}
+
+.tagline{
+    padding:30px 0 50px 250px;
+    font-size:1.5em;
+}
+
+.tagline h3{
+    padding-bottom:20px;
+}
+
+.skills{
+    background-color:pink;
+    color:white;
+    padding:30px 0 50px 250px;
+    font-size:1.5em;
+}
+
+.skills h3{
+    padding-bottom:20px;
+}
+
+.skills p{
+    padding-bottom:12px;
+}           
+.skills ul{
+    padding-left:30px;
+    line-height:35px;
+}
+
+.contact{
+    padding:30px 0 50px 250px;
+    font-size:1.5em;
+}
+
+.contact h3{
+    padding-bottom:20px;
+}
